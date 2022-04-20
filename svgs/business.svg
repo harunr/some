@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="120" viewBox="0 0 150 120">
+    <defs>
+        <path id="b" d="M0 0h56v9H0z"/>
+        <filter id="a" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="d" d="M0 0h56v9H0z"/>
+        <filter id="c" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="f" d="M0 0h56v9H0z"/>
+        <filter id="e" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="h" d="M0 0h56v9H0z"/>
+        <filter id="g" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="j" d="M0 0h56v9H0z"/>
+        <filter id="i" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="l" d="M0 0h56v9H0z"/>
+        <filter id="k" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+        <path id="n" d="M0 0h56v9H0z"/>
+        <filter id="m" width="101.8%" height="111.1%" x="-.9%" y="-5.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 0 0.942974065 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="nonzero" transform="translate(16 12)">
+        <g transform="translate(32)">
+            <rect width="86" height="88" fill="#E5E5E5" rx="4"/>
+            <rect width="76" height="71" x="5" y="11" fill="#FFF" rx="2"/>
+            <rect width="12" height="63" x="8" y="14" fill="#F0F0F0" rx="2"/>
+            <rect width="58" height="4" x="23" y="4" fill="#FFF" opacity=".496" rx="2"/>
+            <circle cx="7" cy="6" r="2" fill="#2EC87A"/>
+            <circle cx="13" cy="6" r="2" fill="#FAAE3C"/>
+            <circle cx="19" cy="6" r="2" fill="#F7564C"/>
+            <g transform="translate(23 14)">
+                <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 23)">
+                <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 32)">
+                <use fill="#000" filter="url(#e)" xlink:href="#f"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 41)">
+                <use fill="#000" filter="url(#g)" xlink:href="#h"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 50)">
+                <use fill="#000" filter="url(#i)" xlink:href="#j"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 59)">
+                <use fill="#000" filter="url(#k)" xlink:href="#l"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+            <g transform="translate(23 68)">
+                <use fill="#000" filter="url(#m)" xlink:href="#n"/>
+                <circle cx="4" cy="4" r="2" fill="#0AC8FF"/>
+                <path fill="#D9D9D9" d="M8 3h18v2H8zM30 3h12v2H30zM46 3h7v2h-7z"/>
+            </g>
+        </g>
+        <rect width="46" height="67" x="-.5" y="29.5" fill="#E5E5E5" stroke="#FFF" rx="4"/>
+        <rect width="37" height="54" x="4" y="34" fill="#FFF" rx="2"/>
+        <circle cx="23" cy="92" r="2" fill="#D4D4D4"/>
+        <rect width="15" height="15" x="6" y="71" fill="#D9D9D9" rx="2"/>
+        <rect width="15" height="15" x="6" y="54" fill="#D9D9D9" rx="2"/>
+        <rect width="15" height="15" x="24" y="71" fill="#D9D9D9" rx="2"/>
+        <rect width="15" height="15" x="24" y="54" fill="#D9D9D9" rx="2"/>
+        <rect width="33" height="2" x="6" y="48" fill="#D9D9D9" rx="1"/>
+        <g fill="#0AC8FF" transform="translate(14 36)">
+            <rect width="11" height="2" y="1" rx="1"/>
+            <g transform="translate(10.938 .246)">
+                <rect width="3.586" height="2" x="2.475" y="1.268" rx="1" transform="rotate(45 4.268 2.268)"/>
+                <rect width="5.949" height="2" x=".677" y="3.445" rx="1" transform="rotate(135 3.652 4.445)"/>
+            </g>
+            <rect width="11" height="1" y="4" rx=".5"/>
+            <rect width="11" height="1" y="6" rx=".5"/>
+        </g>
+    </g>
+</svg>

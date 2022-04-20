@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>icn/Email Container</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style-Guide" transform="translate(-175.000000, -2089.000000)" fill="#2EC87A">
+            <g id="icn/email-contained" transform="translate(175.000000, 2089.000000)">
+                <circle id="Oval-11" opacity="0.2" cx="35" cy="35" r="35"></circle>
+                <g id="Group-14" stroke-width="1" transform="translate(19.600000, 23.800000)">
+                    <path d="M28.3283322,5.52207963 C29.0133501,5.11712622 29.887291,5.36099106 30.2803341,6.06676699 C30.6733771,6.77254292 30.4366847,7.67296696 29.7516669,8.07792037 L16.3316671,16.0112537 C15.8909206,16.2718043 15.349079,16.2718043 14.9083325,16.0112537 L1.48833267,8.07792037 C0.803314853,7.67296696 0.566622511,6.77254292 0.959665526,6.06676699 C1.35270854,5.36099106 2.22664952,5.11712622 2.91166733,5.52207963 L15.6199998,13.0347055 L28.3283322,5.52207963 Z" id="Shape" fill-rule="nonzero" style="mix-blend-mode: multiply;"></path>
+                    <path d="M3.3,2.94666667 C3.05699471,2.94666667 2.86,3.14963091 2.86,3.4 L2.86,20.4 C2.86,20.6503691 3.05699471,20.8533333 3.3,20.8533333 L27.5,20.8533333 C27.7430053,20.8533333 27.94,20.6503691 27.94,20.4 L27.94,3.4 C27.94,3.14963091 27.7430053,2.94666667 27.5,2.94666667 L3.3,2.94666667 Z M3.3,0 L27.5,0 C29.3225397,0 30.8,1.52223185 30.8,3.4 L30.8,20.4 C30.8,22.2777681 29.3225397,23.8 27.5,23.8 L3.3,23.8 C1.47746033,23.8 0,22.2777681 0,20.4 L0,3.4 C0,1.52223185 1.47746033,0 3.3,0 Z" id="Rectangle" fill-rule="nonzero" style="mix-blend-mode: multiply;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
